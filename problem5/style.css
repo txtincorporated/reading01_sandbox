@@ -1,0 +1,63 @@
+#cover {
+  background-color: black;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  position: relative;
+  color: white;
+}
+
+/*#cover2 {
+  background-color: rgba(0,0,0,0.2);
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  position: relative;
+  color: white;
+}
+*/
+
+#label {
+  padding-top: 140px;
+}
+
+/*#label2 {
+  padding-top: 140px;
+}*/
+
+
+#container {
+  background-color: yellow;
+  width: 95%;
+  text-align: center;
+  position: absolute;
+}
+
+.obscure {
+  opacity: 0.5;
+}
+
+/*.subHead, #heading  {
+  text-align: center;
+  color: #133913;
+}
+  .articles {
+  width: 98%;
+  height: 150px;
+  border-radius: 25px;
+  margin: 1px;
+  padding: 15px;
+  color: #133913;
+}
+
+.getter {
+  background-color: #66ffff;
+}
+
+.setter {
+  background-color: #ccccff;
+}
+
+.coverIt {
+  border: 1px solid #133913;
+}*/
